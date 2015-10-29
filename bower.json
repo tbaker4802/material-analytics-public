@@ -1,6 +1,6 @@
 {
   "name": "material-analytics",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "LIbrary to handle sending analytics events from the theme",
   "main": "material-analytics.js",
   "authors": [
@@ -9,6 +9,7 @@
   "license": "",
   "dependencies": {
     "angular": "~1.4.7",
-    "angular-ui-router": "~0.2.15"
+    "angular-ui-router": "~0.2.15",
+    "ng-lodash": "~0.3.0"
   }
 }
