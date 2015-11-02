@@ -1,6 +1,6 @@
 {
   "name": "material-analytics",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "LIbrary to handle sending analytics events from the theme",
   "main": "material-analytics.js",
   "authors": [
